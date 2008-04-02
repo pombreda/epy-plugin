@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "epyplugin", "epy-plugin.vcproj", "{BFAB2002-A965-430B-96E1-6958A45977D1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test_loader", "test_loader\test_loader.vcproj", "{3B8A46B2-9F05-491A-B9B7-7E0179558366}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFAB2002-A965-430B-96E1-6958A45977D1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BFAB2002-A965-430B-96E1-6958A45977D1}.Debug|Win32.Build.0 = Debug|Win32
+		{BFAB2002-A965-430B-96E1-6958A45977D1}.Release|Win32.ActiveCfg = Release|Win32
+		{BFAB2002-A965-430B-96E1-6958A45977D1}.Release|Win32.Build.0 = Release|Win32
+		{3B8A46B2-9F05-491A-B9B7-7E0179558366}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3B8A46B2-9F05-491A-B9B7-7E0179558366}.Debug|Win32.Build.0 = Debug|Win32
+		{3B8A46B2-9F05-491A-B9B7-7E0179558366}.Release|Win32.ActiveCfg = Release|Win32
+		{3B8A46B2-9F05-491A-B9B7-7E0179558366}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
