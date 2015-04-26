@@ -1,0 +1,1 @@
+The goal of the project is to create a generic way of writing plugins for various applications (like WinAmp, Total Commander, etc.) using the [Python](http://www.python.org) programming language.
